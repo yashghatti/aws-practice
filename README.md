@@ -1,5 +1,15 @@
 ## AWS Practice Space
 
+> ### Resources Included
+>  - ELB
+>  - EC2
+>  - CloudFront
+>  - SQS
+>  - SNS
+>  - RDS
+>  - ElasticSearch
+>  - PostgreSQL
+
 ### Sample Stack
 ![Re-Writing a Mainframe Software Package to Java on AWS with Ippon ...](https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2018/11/08/Ippon-Microservices-1.jpg)
 
