@@ -3,7 +3,7 @@
 > ### Resources Included
 >  - ELB
 >  - EC2
->  - CloudFront
+>  - CloudFormation
 >  - SQS
 >  - SNS
 >  - RDS
