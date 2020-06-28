@@ -1,3 +1,12 @@
+## Docker
+Build ec2-transaction-manager
+
+    docker build --no-cache -t ec2-transaction-manager .
+
+Run ec2-transaction-manager
+
+    docker run -d -p 127.0.0.1:8080:8080/tcp --name ec2-transaction-manager ec2-transaction-manager
+
 ## AWS Practice Space
 
 > ### Resources Included
